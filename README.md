@@ -53,7 +53,7 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination](./settygaussian.png)
+![gaussian elimination](https://github.com/SETTY-POOJITHA-AI/Gaussian/blob/b4600125b20a6ee6f3f5331c53c31407a4c0e266/settygaussian.PNG)
 
 
 ## Result:
